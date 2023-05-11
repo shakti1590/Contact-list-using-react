@@ -1,5 +1,5 @@
 #### Problem statement:
- - Create a simple calculator app.
+ - Create a contact list app to manage contacts.
 
 #### Technology Used:
  - React Js
